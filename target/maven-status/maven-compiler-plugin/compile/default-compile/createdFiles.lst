@@ -1,0 +1,9 @@
+example\mykarsolcrud\repositories\AuthorRepository.class
+example\mykarsolcrud\entities\Article.class
+example\mykarsolcrud\services\ArticleService.class
+example\mykarsolcrud\controllers\ArticleController.class
+example\mykarsolcrud\main\mykarsolcrudMain.class
+example\mykarsolcrud\services\EmailService.class
+example\mykarsolcrud\errorcontroller\CustomErrorController.class
+example\mykarsolcrud\entities\Author.class
+example\mykarsolcrud\repositories\ArticleRepository.class
